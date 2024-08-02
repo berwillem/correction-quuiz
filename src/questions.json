@@ -1,0 +1,86 @@
+[
+    {
+        "questionText": "What's the capital of France?",
+        "answerOptions": [
+            {
+                "answerText": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Madrid",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Paris",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Lisbon",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionText": "Who is the CEO of Tesla?",
+        "answerOptions": [
+            {
+                "answerText": "Jeff Bezos",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Elon Musk",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Bill Gates",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tony Stark",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionText": "What is the capital of India?",
+        "answerOptions": [
+            {
+                "answerText": "Delhi",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Mumbai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Chennai",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Kolkata",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionText": "What is the capital of England?",
+        "answerOptions": [
+            {
+                "answerText": "London",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Manchester",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Paris",
+                "isCorrect": false
+            },
+            {
+                "answerText": "New York",
+                "isCorrect": false
+            }
+        ]
+    }
+]
